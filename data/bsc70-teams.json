@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T05:52:46+02:00",
+  "updated_at": "2026-10-12T19:38:40+02:00",
   "source": "https://obv.tournamentsoftware.com",
   "search": {
     "query": "OÖBV Ligen",
@@ -9,62 +9,62 @@
     "end_date": "2028-11-30"
   },
   "league": {
-    "id": "1F9F1638-0DDE-45CF-9B2B-66F8F7868BC9",
-    "title": "OÖBV Ligen 2025-2026",
-    "url": "https://obv.tournamentsoftware.com/league/1F9F1638-0DDE-45CF-9B2B-66F8F7868BC9",
+    "id": "9FD2A396-1925-4644-8D8B-0C7C3713E69A",
+    "title": "OÖBV Ligen 2026-2027",
+    "url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A",
     "first_date": "2025-03-02",
-    "last_date": "2026-04-26"
+    "last_date": "2027-04-25"
   },
   "club": {
     "name": "BSC 70 Linz",
     "team_count": 2,
-    "url": "https://obv.tournamentsoftware.com/league/1F9F1638-0DDE-45CF-9B2B-66F8F7868BC9/club/13"
+    "url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/club/13"
   },
   "teams": [
     {
       "name": "BSC 70 Linz 1",
       "competition": "1.Landesliga",
-      "standing": 2,
-      "played": 10,
-      "points": 26,
-      "team_url": "https://obv.tournamentsoftware.com/league/1F9F1638-0DDE-45CF-9B2B-66F8F7868BC9/team/68",
-      "table_url": "https://obv.tournamentsoftware.com/league/1F9F1638-0DDE-45CF-9B2B-66F8F7868BC9/draw/20",
+      "standing": 3,
+      "played": 1,
+      "points": 2,
+      "team_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/team/68",
+      "table_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/draw/20",
       "draw_id": 20,
       "row": [
-        "2",
+        "3",
         "BSC 70 Linz 1",
-        "10",
-        "8",
+        "1",
+        "1",
+        "0",
         "0",
         "2",
-        "26",
-        "63-17",
-        "128-47",
-        "3378-2414",
-        "W W L W W"
+        "5-3",
+        "11-7",
+        "221-195",
+        "W"
       ]
     },
     {
       "name": "BSC 70 Linz 2",
       "competition": "1.Klasse Nord",
-      "standing": 4,
-      "played": 10,
-      "points": 20,
-      "team_url": "https://obv.tournamentsoftware.com/league/1F9F1638-0DDE-45CF-9B2B-66F8F7868BC9/team/97",
-      "table_url": "https://obv.tournamentsoftware.com/league/1F9F1638-0DDE-45CF-9B2B-66F8F7868BC9/draw/23",
+      "standing": 3,
+      "played": 1,
+      "points": 1,
+      "team_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/team/97",
+      "table_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/draw/23",
       "draw_id": 23,
       "row": [
-        "4",
+        "3",
         "BSC 70 Linz 2",
-        "10",
-        "5",
+        "1",
         "0",
-        "5",
-        "20",
-        "47-33",
-        "101-74",
-        "2995-2786",
-        "L L W L W"
+        "0",
+        "1",
+        "1",
+        "3-5",
+        "6-11",
+        "190-227",
+        "L"
       ]
     }
   ]
