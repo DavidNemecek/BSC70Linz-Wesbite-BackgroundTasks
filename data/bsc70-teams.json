@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T09:51:20+02:00",
+  "updated_at": "2026-10-16T09:42:13+02:00",
   "source": "https://obv.tournamentsoftware.com",
   "search": {
     "query": "OÖBV Ligen",
@@ -25,23 +25,23 @@
       "name": "BSC 70 Linz 1",
       "competition": "1.Landesliga",
       "standing": 3,
-      "played": 1,
-      "points": 2,
+      "played": 2,
+      "points": 5,
       "team_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/team/68",
       "table_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/draw/20",
       "draw_id": 20,
       "row": [
         "3",
         "BSC 70 Linz 1",
-        "1",
-        "1",
-        "0",
-        "0",
         "2",
-        "5-3",
-        "11-7",
-        "221-195",
-        "W"
+        "2",
+        "0",
+        "0",
+        "5",
+        "10-6",
+        "23-15",
+        "485-432",
+        "W W"
       ]
     },
     {
