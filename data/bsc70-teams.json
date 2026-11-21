@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T13:21:28+01:00",
+  "updated_at": "2026-11-21T12:54:49+01:00",
   "source": "https://obv.tournamentsoftware.com",
   "search": {
     "query": "OÖBV Ligen",
@@ -48,23 +48,23 @@
       "name": "BSC 70 Linz 2",
       "competition": "1.Klasse Nord",
       "standing": 5,
-      "played": 2,
-      "points": 4,
+      "played": 3,
+      "points": 5,
       "team_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/team/97",
       "table_url": "https://obv.tournamentsoftware.com/league/9FD2A396-1925-4644-8D8B-0C7C3713E69A/draw/23",
       "draw_id": 23,
       "row": [
         "5",
         "BSC 70 Linz 2",
-        "2",
+        "3",
         "1",
         "0",
-        "1",
-        "4",
-        "9-7",
-        "18-17",
-        "414-432",
-        "L W"
+        "2",
+        "5",
+        "10-14",
+        "20-31",
+        "580-676",
+        "L W L"
       ]
     }
   ]
